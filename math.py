@@ -4,7 +4,7 @@ add (a,b):
 
 # sub implementation  
 sub (a,b):
-   pass
+   return a-b
 
 # mul implementation  
 mul (a,b):
