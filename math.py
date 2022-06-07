@@ -1,6 +1,6 @@
 # add implementation
 add (a,b):
-   pass
+   return a+b
 
 # sub implementation  
 sub (a,b):
